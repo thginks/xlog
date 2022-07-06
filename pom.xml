@@ -203,6 +203,8 @@
 
     <modules>
         <module>xlog-admin</module>
+        <module>xlog-bussiness</module>
+        <module>xlog-common</module>
     </modules>
     <packaging>pom</packaging>
 
