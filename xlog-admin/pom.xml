@@ -40,7 +40,7 @@
 
         <dependency>
             <groupId>com.xuech.xlog</groupId>
-            <artifactId>xlog-bussiness</artifactId>
+            <artifactId>xlog-business</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
